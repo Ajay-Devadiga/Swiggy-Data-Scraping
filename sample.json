@@ -1,0 +1,2303 @@
+{
+    "restaurant_id": "314645",
+    "restaurant_name": "GUPTA DHABA",
+    "latLong": "GUPTA DHABA",
+    "city": "Delhi",
+    "area": "Sagar Pur",
+    "areaPostalCode": "560025",
+    "areaSlug": "Vikaspuri",
+    "type": "F",
+    "locality": "Janakpuri",
+    "avgRating": 0,
+    "totalRatings": 0,
+    "avgRatingString": "--",
+    "totalRatingsString": "Too Few Ratings",
+    "costForTwo": "Too Few Ratings",
+    "costForTwoMsg": "\u20b9200 for two",
+    "cuisines": [
+        "North Indian"
+    ],
+    "isNew": false,
+    "isVeg": false,
+    "multiOutlet": false,
+    "availability": {
+        "nextCloseTime": "2022-10-10 23:00:00",
+        "nextChangeTime": 1665423000000,
+        "visibility": true,
+        "opened": true
+    },
+    "aggregatedDiscountInfo": {
+        "header": "50% off",
+        "shortDescriptionList": [
+            {
+                "meta": "50% off + Flat \u20b930 Paytm Cashback | Use WELCOME50",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+            },
+            {
+                "meta": "20% off | Use TRYNEW",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+            }
+        ],
+        "descriptionList": [
+            {
+                "meta": "50% off up to \u20b9100 + Flat \u20b930 cashback with Paytm | Use code WELCOME50",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+            },
+            {
+                "meta": "20% off up to \u20b950 | Use code TRYNEW",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+            }
+        ]
+    },
+    "restaurantLicenses": [
+        {
+            "type": "FSSAI",
+            "imageId": "fssai_final_edss9i",
+            "text": [
+                "License No. 23320010001213"
+            ]
+        }
+    ],
+    "cafe": false,
+    "preorderable": false,
+    "timeStamp": "1665402380187",
+    "items": {
+        "60105763": {
+            "id": 60105763,
+            "name": "Mix Dal Fry",
+            "category": "Main Course",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 8400,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "8024044",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "26870717",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024044",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 4800,
+                                "default": 0,
+                                "id": "26870718",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024044",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "60105764": {
+            "id": 60105764,
+            "name": "Chole Fry",
+            "category": "Main Course",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 8400,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "8024045",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "26870719",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024045",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 4800,
+                                "default": 0,
+                                "id": "26870720",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024045",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "60105765": {
+            "id": 60105765,
+            "name": "Rajma Fry",
+            "category": "Main Course",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 8400,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "8024046",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "26870721",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024046",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 4800,
+                                "default": 0,
+                                "id": "26870722",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024046",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+            },
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": true,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "60105767": {
+            "id": 60105767,
+            "name": "Aloo Matar",
+            "category": "Main Course",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 8400,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "8024048",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "26870725",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024048",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 4800,
+                                "default": 0,
+                                "id": "26870726",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024048",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "60105770": {
+            "id": 60105770,
+            "name": "Aloo Soyabean",
+            "category": "Main Course",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 8400,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "8024051",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "26870731",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024051",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 4800,
+                                "default": 0,
+                                "id": "26870732",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024051",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "60105772": {
+            "id": 60105772,
+            "name": "Ghiya Chana",
+            "category": "Main Course",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 8400,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "8024053",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "26870735",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024053",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 4800,
+                                "default": 0,
+                                "id": "26870736",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024053",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "60105779": {
+            "id": 60105779,
+            "name": "Jeera Aloo",
+            "category": "Main Course",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 9600,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "8024060",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "26870749",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024060",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 4800,
+                                "default": 0,
+                                "id": "26870750",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024060",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+            },
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": true,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "60105781": {
+            "id": 60105781,
+            "name": "Matar Masala",
+            "category": "Main Course",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 9600,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "8024062",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "26870753",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024062",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 4800,
+                                "default": 0,
+                                "id": "26870754",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024062",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "60105782": {
+            "id": 60105782,
+            "name": "Dal Makhani",
+            "category": "Main Course",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 10800,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "8024063",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "26870755",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024063",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 8400,
+                                "default": 0,
+                                "id": "26870756",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024063",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+            },
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": true,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "60105783": {
+            "id": 60105783,
+            "name": "Soya Chaap",
+            "category": "Main Course",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 13200,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "8024064",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "26870757",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024064",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 9600,
+                                "default": 0,
+                                "id": "26870758",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024064",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "60105784": {
+            "id": 60105784,
+            "name": "Mix Veg",
+            "category": "Main Course",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 13200,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "8024065",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "26870759",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024065",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 9600,
+                                "default": 0,
+                                "id": "26870760",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024065",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "60105785": {
+            "id": 60105785,
+            "name": "Matar Paneer",
+            "category": "Main Course",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 13200,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "8024066",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "26870761",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024066",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 9600,
+                                "default": 0,
+                                "id": "26870762",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024066",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+            },
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": true,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "60105786": {
+            "id": 60105786,
+            "name": "Shahi Paneer",
+            "category": "Main Course",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 13200,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "8024067",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "26870763",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024067",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 9600,
+                                "default": 0,
+                                "id": "26870764",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024067",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+            },
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": true,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "60105787": {
+            "id": 60105787,
+            "name": "Kadhai Chaap",
+            "category": "Main Course",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 14400,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "8024068",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "26870765",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024068",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 10800,
+                                "default": 0,
+                                "id": "26870766",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024068",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "60105788": {
+            "id": 60105788,
+            "name": "Kadhai Paneer",
+            "category": "Main Course",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 14400,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "8024069",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "26870767",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024069",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 10800,
+                                "default": 0,
+                                "id": "26870768",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024069",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "60105789": {
+            "id": 60105789,
+            "name": "Chilli Chaap",
+            "category": "Main Course",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 15600,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "8024070",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "26870769",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024070",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 12000,
+                                "default": 0,
+                                "id": "26870770",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024070",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "60105790": {
+            "id": 60105790,
+            "name": "Chilli Paneer",
+            "category": "Main Course",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 15600,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "8024071",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "26870771",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024071",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 12000,
+                                "default": 0,
+                                "id": "26870772",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024071",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "60105791": {
+            "id": 60105791,
+            "name": "Paneer Butter Masala",
+            "category": "Main Course",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 15600,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "8024072",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "26870773",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024072",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 13200,
+                                "default": 0,
+                                "id": "26870774",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024072",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "60105792": {
+            "id": 60105792,
+            "name": "Plain Rice",
+            "category": "Rice",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 4800,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "8024073",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "26870775",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024073",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 2400,
+                                "default": 0,
+                                "id": "26870776",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024073",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "60105793": {
+            "id": 60105793,
+            "name": "Jeera Rice",
+            "category": "Rice",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 7200,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "8024074",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "26870777",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024074",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 2400,
+                                "default": 0,
+                                "id": "26870778",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024074",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "60105794": {
+            "id": 60105794,
+            "name": "Veg Fried Rice",
+            "category": "Rice",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 8400,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "8024075",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "26870779",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024075",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 3600,
+                                "default": 0,
+                                "id": "26870780",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024075",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "60105795": {
+            "id": 60105795,
+            "name": "Paneer Veg Fried Rice",
+            "category": "Rice",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 10800,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "8024076",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "26870781",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024076",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 3600,
+                                "default": 0,
+                                "id": "26870782",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "8024076",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "60105797": {
+            "id": 60105797,
+            "name": "Butter Roti",
+            "category": "Breads",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 1200,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": []
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "65206533": {
+            "id": 65206533,
+            "name": "Normal Thali",
+            "category": "Thalis",
+            "description": "4 plain roti + daal or chole or rajma or kadi pakoda + sabzi + rice + salad.",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 13200,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "9589369",
+                        "name": "Choice of Main Course",
+                        "variations": [
+                            {
+                                "name": "Daal",
+                                "price": 0,
+                                "default": 1,
+                                "id": "31653267",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589369",
+                                "order": 999
+                            },
+                            {
+                                "name": "Chole",
+                                "price": 0,
+                                "default": 0,
+                                "id": "31653268",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589369",
+                                "order": 998
+                            },
+                            {
+                                "name": "Rajma",
+                                "price": 0,
+                                "default": 0,
+                                "id": "31653269",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589369",
+                                "order": 997
+                            },
+                            {
+                                "name": "Kadi Pakoda",
+                                "price": 0,
+                                "default": 0,
+                                "id": "31653270",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589369",
+                                "order": 996
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "65206534": {
+            "id": 65206534,
+            "name": "Special Thali",
+            "category": "Thalis",
+            "description": "4 butter roti + matar paneer or shahi paneer or soya chaap + chole or daal or rajma or kadi pakoda + rice + raita + salad.",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 19200,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "9589370",
+                        "name": "Choice of Main Course",
+                        "variations": [
+                            {
+                                "name": "Mattar Paneer",
+                                "price": 0,
+                                "default": 1,
+                                "id": "31653271",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589370",
+                                "order": 999
+                            },
+                            {
+                                "name": "Shahi Paneer",
+                                "price": 0,
+                                "default": 0,
+                                "id": "31653272",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589370",
+                                "order": 998
+                            },
+                            {
+                                "name": "Soya Chaap",
+                                "price": 0,
+                                "default": 0,
+                                "id": "31653273",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589370",
+                                "order": 997
+                            },
+                            {
+                                "name": "Chole",
+                                "price": 0,
+                                "default": 0,
+                                "id": "31653274",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589370",
+                                "order": 996
+                            },
+                            {
+                                "name": "Dal",
+                                "price": 0,
+                                "default": 0,
+                                "id": "31653275",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589370",
+                                "order": 995
+                            },
+                            {
+                                "name": "Rajma",
+                                "price": 0,
+                                "default": 0,
+                                "id": "31653276",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589370",
+                                "order": 994
+                            },
+                            {
+                                "name": "Kadi Pakoda",
+                                "price": 0,
+                                "default": 0,
+                                "id": "31653277",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589370",
+                                "order": 993
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "65206535": {
+            "id": 65206535,
+            "name": "Egg Kadi",
+            "category": "Main Course",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 0,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 10800,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "9150777",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "30287402",
+                                "inStock": 1,
+                                "isVeg": 0,
+                                "variant_group_id": "9150777",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 8400,
+                                "default": 0,
+                                "id": "30287403",
+                                "inStock": 1,
+                                "isVeg": 0,
+                                "variant_group_id": "9150777",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "EGG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "65206537": {
+            "id": 65206537,
+            "name": "Egg Fried Rice",
+            "category": "Main Course",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 0,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 10800,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "9150778",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "30287404",
+                                "inStock": 1,
+                                "isVeg": 0,
+                                "variant_group_id": "9150778",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 8400,
+                                "default": 0,
+                                "id": "30287405",
+                                "inStock": 1,
+                                "isVeg": 0,
+                                "variant_group_id": "9150778",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "67271049": {
+            "id": 67271049,
+            "name": "Mineral Water (1 Ltr)",
+            "category": "Beverages",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 3600,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": []
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "67271050": {
+            "id": 67271050,
+            "name": "Dal Tadka",
+            "category": "Main Course",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 8400,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "9589360",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "31653249",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589360",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 4800,
+                                "default": 0,
+                                "id": "31653250",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589360",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "67271053": {
+            "id": 67271053,
+            "name": "Egg Bhurji",
+            "category": "Main Course",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 0,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 8400,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "9589363",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "31653255",
+                                "inStock": 1,
+                                "isVeg": 0,
+                                "variant_group_id": "9589363",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 4800,
+                                "default": 0,
+                                "id": "31653256",
+                                "inStock": 1,
+                                "isVeg": 0,
+                                "variant_group_id": "9589363",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "EGG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "67271054": {
+            "id": 67271054,
+            "name": "Chana Masala",
+            "category": "Main Course",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 13200,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "9589364",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "31653257",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589364",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 9600,
+                                "default": 0,
+                                "id": "31653258",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589364",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "67271056": {
+            "id": 67271056,
+            "name": "Plain Tawa Roti",
+            "category": "Breads",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 960,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": []
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "67271057": {
+            "id": 67271057,
+            "name": "Boondi Raita",
+            "category": "Breads",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 7200,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "9589366",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "31653261",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589366",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 4800,
+                                "default": 0,
+                                "id": "31653262",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589366",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "67271058": {
+            "id": 67271058,
+            "name": "Dahi",
+            "category": "Breads",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 7200,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "9589367",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "31653263",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589367",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 4800,
+                                "default": 0,
+                                "id": "31653264",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589367",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "67271059": {
+            "id": 67271059,
+            "name": "Chole Rice",
+            "category": "Rice",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 9600,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "9589368",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "31653265",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589368",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 3600,
+                                "default": 0,
+                                "id": "31653266",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589368",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "67271060": {
+            "id": 67271060,
+            "name": "Delux Thali",
+            "category": "Thalis",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 22800,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "9589371",
+                        "name": "Choice of Main Course",
+                        "variations": [
+                            {
+                                "name": "Matar Paneer",
+                                "price": 0,
+                                "default": 1,
+                                "id": "31653278",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589371",
+                                "order": 999
+                            },
+                            {
+                                "name": "Shahi Paneer",
+                                "price": 0,
+                                "default": 0,
+                                "id": "31653279",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589371",
+                                "order": 998
+                            },
+                            {
+                                "name": "Soya Chaap",
+                                "price": 0,
+                                "default": 0,
+                                "id": "31653280",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589371",
+                                "order": 997
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "67271061": {
+            "id": 67271061,
+            "name": "Rajma Rice",
+            "category": "Rice",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 9600,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "9589372",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "31653281",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589372",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 3600,
+                                "default": 0,
+                                "id": "31653282",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589372",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        },
+        "67271062": {
+            "id": 67271062,
+            "name": "Daal Rice",
+            "category": "Rice",
+            "description": "",
+            "recommended": 0,
+            "inStock": 1,
+            "isVeg": 1,
+            "enabled": 1,
+            "displayOrder": 0,
+            "price": 9600,
+            "variants_new": {
+                "exclude_list": [],
+                "variant_groups": [
+                    {
+                        "group_id": "9589373",
+                        "name": "Quantity",
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 0,
+                                "default": 1,
+                                "id": "31653283",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589373",
+                                "order": 999
+                            },
+                            {
+                                "name": "Full",
+                                "price": 3600,
+                                "default": 0,
+                                "id": "31653284",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "variant_group_id": "9589373",
+                                "order": 998
+                            }
+                        ]
+                    }
+                ]
+            },
+            "cropChoices": 2,
+            "itemScore": 0,
+            "itemDiscount": 0,
+            "isPopular": 0,
+            "restId": "314645",
+            "showMC": 0,
+            "attributes": {
+                "portionSize": "",
+                "vegClassifier": "VEG",
+                "accompaniments": ""
+            },
+            "isHealthy": false,
+            "isBestSeller": false,
+            "itemNudgeType": "",
+            "isGuiltFree": false
+        }
+    }
+}
